@@ -1,2 +1,3 @@
 inserting in master
+<<to see merge conflict in remote repo , dng in deve brnach>>
 skfk
