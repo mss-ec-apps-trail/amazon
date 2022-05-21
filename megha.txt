@@ -1,2 +1,3 @@
 inserting in master
+<<doing in master , to see merge conflict>>
 skfk
