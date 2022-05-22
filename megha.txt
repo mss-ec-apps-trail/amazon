@@ -1,5 +1,9 @@
 inserting in master
+<<<<<<< HEAD
 <<inserting now bbbbbbbbbbbb>>
 <<inserting now aaaaaaaaaaaaa>>
+=======
+<<to see merge conflict in remote repo , dng in deve brnach>>
+>>>>>>> AZ/master
 skfk
 asdjhn
