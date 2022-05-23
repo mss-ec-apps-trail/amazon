@@ -1,6 +1,7 @@
 inserting in master
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<inserting now aaaaaaaaaaaaa>>
 =======
 <<inserting now bbbbbbbbbbbb>>
@@ -8,5 +9,8 @@ inserting in master
 =======
 <<doing in master , to see merge conflict>>
 >>>>>>> a2b6027 (merge commit)
+=======
+<<to see merge conflict in remote repo , dng in deve brnach>>
+>>>>>>> b1e8e57 (Update megha.txt)
 skfk
 asdjhn
