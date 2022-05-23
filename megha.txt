@@ -1,8 +1,12 @@
 inserting in master
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<inserting now aaaaaaaaaaaaa>>
 =======
 <<inserting now bbbbbbbbbbbb>>
 >>>>>>> 89ec6d1 (done)
+=======
+<<doing in master , to see merge conflict>>
+>>>>>>> a2b6027 (merge commit)
 skfk
 asdjhn
