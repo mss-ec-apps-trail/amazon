@@ -1,4 +1,8 @@
 inserting in master
+<<<<<<< HEAD
 <<inserting now aaaaaaaaaaaaa>>
+=======
+<<inserting now bbbbbbbbbbbb>>
+>>>>>>> 89ec6d1 (done)
 skfk
 asdjhn
